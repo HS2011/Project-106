@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+
+}
+.thing{
+    background-color: rgb(176, 105, 64);
+    color: rgb(255, 255, 255);
+    font-family: 'Syne Tactile', cursive;
+}
+#title{
+    font-size: 60px;
+}
+#par{
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+button{
+    width: 51%;
+    margin: 20px;
+    font-size: 25px!important;
+}
+#foot{
+    background-color: aliceblue;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-shadow: 6px 6px 6px rgb(67, 62, 59, 0.801);
+    line-height: 4;
+}
